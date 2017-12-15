@@ -1,0 +1,9 @@
+package test171215;
+
+public class test171215 {
+	public static void main(String[] args)
+	{
+		System.out.println("Hello Ammy");
+	}
+
+}
