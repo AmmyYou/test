@@ -1,0 +1,9 @@
+package test180105;
+
+public class test180105 {
+	public static void main(String[] args)
+	{
+		System.out.println("Hello Ammy");
+	}
+
+}
